@@ -16,7 +16,7 @@
     "node": ">=0.8"
   },
   "dependencies": {
-    "bunyan": "0.23.1",
+    "bunyan": "~1.8.2",
     "redis": "0.10.3",
     "async": "0.1.22",
     "node-uuid": "1.4.0",
